@@ -1,5 +1,9 @@
 A simple top-down 2D shooter game where you must battle zombies at night to survive.
 
+## How to play
+
+Use WASD to move the player. Aim with the mouse and left-click to fire at enemies.
+
 ## Credits
 
 - [High Definition Machine Gun sound effect](https://soundbible.com/1575-High-Definition-Machine-Gun.html) by WEL is licensed under CC BY 3.0.

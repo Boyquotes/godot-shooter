@@ -1,5 +1,7 @@
 A simple top-down 2D shooter game where you must battle zombies at night to survive.
 
+Built with the [Godot game engine](https://godotengine.org).
+
 ## How to play
 
 Use WASD to move the player. Aim with the mouse and left-click to fire at enemies.

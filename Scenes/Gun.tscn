@@ -1,0 +1,31 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Gun.gd" type="Script" id=2]
+
+[node name="Gun" type="Node2D"]
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Barrel" type="ColorRect" parent="."]
+margin_top = -4.0
+margin_right = 40.0
+margin_bottom = 4.0
+color = Color( 0.223529, 0.0588235, 0.0156863, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Nozzle" type="ColorRect" parent="."]
+margin_left = 40.0
+margin_top = -2.0
+margin_right = 44.0
+margin_bottom = 2.0
+color = Color( 0.223529, 0.0588235, 0.0156863, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Fire" type="Position2D" parent="."]
+position = Vector2( 44, 0 )
